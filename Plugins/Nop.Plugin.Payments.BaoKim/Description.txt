@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: Bao Kim
+SystemName: Payments.BaoKim
+Version: 1.0
+SupportedVersions: 3.90
+Author: MinhCT, CanhKD, HieuNT, HaiND
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.BaoKim.dll
+Description: This plugin allows paying with Bao Kim

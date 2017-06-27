@@ -1,0 +1,18 @@
+C:\Users\Niles\Desktop\NopCommerce\Presentation\Nop.Web\Plugins\Payments.BaoKim\Description.txt
+C:\Users\Niles\Desktop\NopCommerce\Presentation\Nop.Web\Plugins\Payments.BaoKim\web.config
+C:\Users\Niles\Desktop\NopCommerce\Presentation\Nop.Web\Plugins\Payments.BaoKim\Nop.Plugin.Payments.BaoKim.dll.config
+C:\Users\Niles\Desktop\NopCommerce\Presentation\Nop.Web\Plugins\Payments.BaoKim\Nop.Plugin.Payments.BaoKim.dll
+C:\Users\Niles\Desktop\NopCommerce\Presentation\Nop.Web\Plugins\Payments.BaoKim\Nop.Plugin.Payments.BaoKim.pdb
+C:\Users\Niles\Desktop\NopCommerce\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.csproj.App.config
+C:\Users\Niles\Desktop\NopCommerce\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.csprojResolveAssemblyReference.cache
+C:\Users\Niles\Desktop\NopCommerce\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.dll
+C:\Users\Niles\Desktop\NopCommerce\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.pdb
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Presentation\Nop.Web\Plugins\Payments.BaoKim\Description.txt
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Presentation\Nop.Web\Plugins\Payments.BaoKim\web.config
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Presentation\Nop.Web\Plugins\Payments.BaoKim\Views\Configure.cshtml
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Presentation\Nop.Web\Plugins\Payments.BaoKim\Nop.Plugin.Payments.BaoKim.dll.config
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Presentation\Nop.Web\Plugins\Payments.BaoKim\Nop.Plugin.Payments.BaoKim.dll
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Presentation\Nop.Web\Plugins\Payments.BaoKim\Nop.Plugin.Payments.BaoKim.pdb
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.csprojResolveAssemblyReference.cache
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.dll
+C:\Users\Niles\Desktop\NopCommerce - Project\trunk\Plugins\Nop.Plugin.Payments.BaoKim\obj\Debug\Nop.Plugin.Payments.BaoKim.pdb
